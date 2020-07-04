@@ -27,7 +27,3 @@ struct VCs {
     static let toDoListVC = "ToDoListVC"
     static let popUpVC = "PopUpVC"
 }
-
-struct UserDefaultsKeys {
-    static let isLoggedIn = "isLoggedIn"
-}
